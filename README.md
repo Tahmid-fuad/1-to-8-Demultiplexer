@@ -15,6 +15,9 @@ A compact educational project containing the schematic, layout, symbols and extr
 
 ![](https://raw.githubusercontent.com/Tahmid-fuad/1-to-8-Demultiplexer/main/Images/av_extracted.png)
 
+## Result
+
+![](https://raw.githubusercontent.com/Tahmid-fuad/1-to-8-Demultiplexer/main/Images/result.png)
 
 ## Contact:
 
